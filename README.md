@@ -13,6 +13,9 @@ Improved Particle Swarm Optimization with 2D swarm visualization
 - **Beautiful contour background** using matplotlib (magma colormap + logarithmic levels when needed)
 - **Global best highlighted** with large lime star marker
 
+- <img width="955" height="790" alt="image" src="https://github.com/user-attachments/assets/94f63dcd-d31e-48a8-8262-e0fe995c0d1a" />
+
+
 ## Why this is improved over basic PSO repos
 
 - Much cleaner visualization focus (only final result — easier to understand convergence quality)
