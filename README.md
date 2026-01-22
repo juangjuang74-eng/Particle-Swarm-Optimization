@@ -3,7 +3,7 @@ Improved Particle Swarm Optimization with 2D swarm visualization
  Features
 
 - **Iteractive user input**: Choose function, dimension (best at 2D), particles, iterations — no code editing needed
-- **Linear inertia weight decay**: From w_max=0.9 to w_min=0.39 for balanced exploration → exploitation
+- **Linear inertia weight decay**: 
 - **Velocity clamping** + simple reflection boundary handling
 - **Focused visualization**: Clean final swarm scatter plot on function contour (no convergence graph or animation clutter)
 - **Benchmark functions included**:
